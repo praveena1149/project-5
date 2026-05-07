@@ -48,7 +48,7 @@ Two models were implemented:
      Recall
      confusion matrix
 
-6. Prediction
+ 6. Prediction
 The trained model predicts driver conditions in real time.
 
 7. Fatigue Classification Logic
@@ -78,4 +78,4 @@ The Driver Drowsiness Detection System helps reduce road accidents by detecting 
 
        
 
-The dataset is preprocessed and augmented before training to improve model performance and generalization.      
+    
