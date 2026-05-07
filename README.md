@@ -48,10 +48,10 @@ Two models were implemented:
      Recall
      confusion matrix
 
-5. Prediction
+6. Prediction
 The trained model predicts driver conditions in real time.
 
-6. Fatigue Classification Logic
+7. Fatigue Classification Logic
 Predicted Class	Fatigue Level
      Open + No_Yawn	----> Alert
      Open + Yawn	----> Mild Fatigue
